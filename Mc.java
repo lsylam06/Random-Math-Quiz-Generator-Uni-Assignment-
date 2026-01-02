@@ -1,3 +1,9 @@
+/**
+ * Name: Mc.java
+ * Details: This class handles the Multiple Choice quiz functionality for the Simple Quiz Generator program.
+ * Date: 12/27/25
+ */
+
 import java.util.*;
 import javax.swing.*;
 
