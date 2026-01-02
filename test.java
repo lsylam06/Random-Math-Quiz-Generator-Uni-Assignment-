@@ -2,13 +2,11 @@ import javax.swing.*;
 
 public class test {
     public static void main(String[] args) {
-        // Problem arrays matching your exact requirements
         String[] additionQuestions = generateAdditionProblems();
         String[] subtractionQuestions = generateSubtractionProblems();
         String[] multiplicationQuestions = generateMultiplicationProblems();
         String[] divisionQuestions = generateDivisionProblems();
         
-        // Display and test
         runQuiz(additionQuestions, "Addition Quiz");
     }
     
@@ -82,8 +80,6 @@ public class test {
                 JOptionPane.QUESTION_MESSAGE);
             
             if (answer != null) {
-                // Here you would check the answer
-                // For now, just show the question
                 JOptionPane.showMessageDialog(null, 
                     "You answered: " + answer + "\n" + 
                     "Question: " + question);
