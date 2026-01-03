@@ -1,5 +1,7 @@
 /**
  * Name: Mc.java
+ * Programmer: Lam Sai Yuk Johnmar
+ * Class: GSD1A
  * Details: This class handles the Multiple Choice quiz functionality for the Simple Quiz Generator program.
  * Date: 12/27/25
  */

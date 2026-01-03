@@ -1,5 +1,7 @@
 /**
  * Program Name: Start.java
+ * Programmer: Lam Sai Yuk Johnmar
+ * Class: GSD1A
  * Details: The start of the Simple Quiz Generator, this code loads a set of questions in which the player will have to choose between Mathimatics of MC quiz.
  * Date: 12/27/25
  */

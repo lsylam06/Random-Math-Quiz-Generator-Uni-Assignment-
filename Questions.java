@@ -1,5 +1,7 @@
 /**
  * Name: Questions.java
+ * Programmer: Lam Sai Yuk Johnmar
+ * Class: GSD1A
  * Details: This class contains the questions and answers for both the Mathematics and Multiple Choice quizzes used in the Simple Quiz Generator program.
  * Date: 12/27/25
  */
